@@ -4,6 +4,8 @@ French engineer based in Paris / San Fransisco. I graduated from Arts et Métier
 
 I build things with Python and machine learning, mostly around quantitative finance, fraud detection, and data pipelines.
 
+Portfolio : https://rsllr150.github.io/
+
 ## What I'm working on
 
 - **Cirkles**: Founding Software Engineer — fraud detection & due diligence for B2B/B2C financing

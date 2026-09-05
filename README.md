@@ -1,29 +1,29 @@
 # Hi, I'm Romain
 
-French engineer based in Paris / San Fransisco. I graduated from Arts et Métiers (Paris), Dauphine PSL and UC Berkeley.
+French engineer based in Paris / San Francisco. Arts et Métiers (Paris), Dauphine PSL, UC Berkeley.
 
 I build things with Python and machine learning, mostly around quantitative finance, fraud detection, and data pipelines.
 
-Portfolio : https://rsllr150.github.io/
+**Portfolio → [rsllr150.github.io](https://rsllr150.github.io/)**
 
-## What I'm working on
-
-- **Cirkles**: Founding Software Engineer — fraud detection & due diligence for B2B/B2C financing
-- **Bayesian neural network modelling**: buy-side equity & fixed income (CM-CIC)
-
-## Selected projects
+## Selected work
 
 | Project | Description | Stack |
 |---|---|---|
-| Cirkles | Mutualized fraud scoring software — full platform built end-to-end with a team of 3 | Python, FastAPI |
-| Bayesian NN Modelling | Bayesian neural networks for buy-side equity & fixed income (CM-CIC) | Python, PyTorch |
-| Trading Cost Analysis | Front-office Trading Cost Analysis model & pipeline (Oddo BHF) | Python |
+| **[Cirkles](https://cirkles.ai)** | Mutualized fraud scoring software — full platform built end-to-end with a team of 3 | Python, FastAPI |
+| **Bayesian NN Modelling** | Bayesian neural networks for buy-side equity & fixed income — CM-CIC, French corporate & investment bank | Python, PyTorch |
+| **Trading Cost Analysis** | Front-office Trading Cost Analysis model & pipeline — ODDO BHF, Franco-German investment bank | Python |
 
 ## Stack
 
 **Languages** `Python` · `TypeScript` · `SQL`
-**ML** `LightGBM` · `PyTorch` · `scikit-learn`
-**Backend** `FastAPI` · `MongoDB`
-**Frontend** `React` · `Vite` · `Tailwind`
-**Infra** `Docker` · `Kubernetes`
 
+**ML** `LightGBM` · `PyTorch` · `scikit-learn`
+
+**Interpretability** `EBM` · `InterpretML` · `SHAP` · `LIME`
+
+**Backend** `FastAPI` · `MongoDB`
+
+**Frontend** `React` · `Vite` · `Tailwind` · `Streamlit`
+
+**Infra** `Docker` · `Kubernetes` · `ArgoCD`
